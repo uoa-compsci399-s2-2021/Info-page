@@ -1,7 +1,7 @@
 # Info-page
 this is the information page for our online job-board project
 
-###clone or download
+### clone or download
 ```terminal
 $ git clone https://github.com/uoa-compsci399-s2-2021/Info-page.git
 ```
